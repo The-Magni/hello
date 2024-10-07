@@ -9,3 +9,5 @@ q: exit any git command
 git status: status if the local file has been committed
 git reset --hard <commit>: go back to a commit
 git reset --hard origin/master: change to same as in GitHub
+
+When decide to make a new feature, create a new change
