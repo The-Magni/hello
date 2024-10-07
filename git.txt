@@ -13,3 +13,4 @@ git reset --hard origin/master: change to same as in GitHub
 When decide to make a new feature, create a new change
 git branch: show all the branches, * denotes current branch
 git checkout -b <name>: create a new branch call <name>
+git checkout <name>: switch to the <name> branch
