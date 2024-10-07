@@ -1,0 +1,8 @@
+git clone url: clone a respiratory from GitHub to the local computer
+git commit -m "message": Commit creating a new file
+git commit -am "message": Commit update changes to all the file
+git push: Update the file in GitHub correspond to the local computer
+git pull: Update the file in the local computer the same as in GitHub
+git log: see all the commits so far
+q: exit any git command
+git status: status if the local file has been committed
